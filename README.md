@@ -2,6 +2,11 @@
 - 🔭 Introduction: I’m currently studying at Harbin Institute of Technology @Weihai, majoring in **Software Engineering**.
 - 🏅 Accomplishments: I have won 🥈\*1, 🥉\*1 from ICPC-Regional and 🥉\*1 from CCSP, as an Competitive Programming (CP) player (OIer/ACMer).
 - 🌱 Interests: I’m currently learning Python, Pytorch and knowledge of NLP.
+
+##
+![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
+
+###### Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **asdfo123/asdfo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
