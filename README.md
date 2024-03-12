@@ -1,10 +1,10 @@
-# Hi there! This is Asdfo123!👋
+# Hi there! This is asdfo123!👋
 - 🔭 Introduction: I’m currently studying at Harbin Institute of Technology @Weihai, majoring in **Software Engineering**.
 - 🏅 Accomplishments: I have won 🥈\*1, 🥉\*1 from ICPC-Regional and 🥉\*1 from CCSP, as an Competitive Programming (CP) player (OIer/ACMer).
 - 🌱 Interests: I’m currently learning Python, Pytorch and knowledge of NLP.
 
 ##
-![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
+![asdfo123's  stats](https://github-readme-stats.vercel.app/api?username=asdfo123&show_icons=true&count_private=true&theme=dark)
 
 ###### Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
