@@ -4,7 +4,7 @@
 - 🌱 Interests: I’m currently learning Python, Pytorch and knowledge of NLP.
 
 ##
-![asdfo123's  stats](https://github-readme-stats.vercel.app/api?username=asdfo123&show_icons=true&count_private=true&theme=dark)
+![asdfo123's  stats](https://github-readme-stats.vercel.app/api?username=asdfo123&show_icons=true&count_private=true)
 
 ###### Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
