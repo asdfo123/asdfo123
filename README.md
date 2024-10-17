@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=asdfo123&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Kiran1689" style="padding-right:20px;" />
+</p>
