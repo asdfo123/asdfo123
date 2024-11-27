@@ -1,14 +1,14 @@
 # Hi there! This is asdfo123!👋
 
 <p align="left" width="200">
-   <p align="left"> <a href="https://www.zhihu.com/people/asdfo">ZhiHu</a> | <a href="mailto:leeasdfo123@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/xinye-li-5503a3283/">Linkedin</a> | <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">Resume</a> </p>
+   <p align="left"> <a href="https://www.zhihu.com/people/asdfo">ZhiHu</a> | <a href="mailto:leeasdfo123@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/xinye-li-5503a3283/">Linkedin</a> | <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">Resume</a> | <a href="https://asdfo123.github.io">Personal website</a></p>
 </p>
 
 - 🔭 Introduction: I’m currently studying at Harbin Institute of Technology @Weihai, majoring in **Software Engineering**.
 - 🏅 Accomplishments: I have won 🥈\*1, 🥉\*1 from ICPC-Regional and 🥉\*1 from CCSP, as an Competitive Programming (CP) player (OIer/ACMer). In addition, I have won 🥈 from CodeCraft2024, a contest focusing on optimizing real-world problems.
 - 🌱 Interests: I’m currently learning Python, Pytorch, knowledge of NLP and application of LLMs.
 - ⚡ Fun fact: I have learnt Cantonese for more than 200 days on Duolingo!
-- 😄 For detailed information, please refer to my <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">CV</a>. </p>  
+- 😄 For detailed information, please refer to my <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">CV</a> and my <a href="https://asdfo123.github.io">personal website</a>. </p>  
 
 ##
 ![asdfo123's  stats](https://github-readme-stats.vercel.app/api?username=asdfo123&show_icons=true&count_private=true)
