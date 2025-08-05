@@ -11,7 +11,7 @@
 - 😄 For detailed information, please refer to my <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">CV</a> and my <a href="https://asdfo123.github.io">personal website</a>. </p>  
 
 
-###### Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **asdfo123/asdfo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
