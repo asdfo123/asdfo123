@@ -1,7 +1,7 @@
 # Hi there! This is asdfo123!👋
 
 <p align="left" width="200">
-   <p align="left"> <a href="https://www.zhihu.com/people/asdfo">ZhiHu</a> | <a href="mailto:leeasdfo123@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/xinye-li-5503a3283/">Linkedin</a> | <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">Resume</a> | <a href="https://asdfo123.github.io">Personal website</a></p>
+   <p align="left"> <a href="https://www.zhihu.com/people/asdfo">ZhiHu</a> | <a href="https://www.xiaohongshu.com/user/profile/5f8695d300000000010021e1">RedNote</a> | <a href="mailto:leeasdfo123@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/xinye-li-5503a3283/">Linkedin</a> | <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">Resume</a> | <a href="https://asdfo123.github.io">Personal website</a></p>
 </p>
 
 - 🔭 Introduction: I’m currently studying at Harbin Institute of Technology @Weihai, majoring in **Software Engineering**.
