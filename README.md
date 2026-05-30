@@ -6,7 +6,7 @@
 
 - 🔭 Introduction: I’m currently studying at Harbin Institute of Technology @Weihai, majoring in **Software Engineering**.
 - 🏅 Accomplishments: I have won 🥉\*1 from ICPC EC-Final, 🥈\*1, 🥉\*1 from ICPC-Regional and 🥉\*1 from CCSP, as an Competitive Programming (CP) player (OIer/ACMer). In addition, I have won 🥈 from CodeCraft2024, a contest focusing on optimizing real-world problems.
-- 🌱 Interests: I am currently focused on the knowledge, reasoning, and interventions of LLMs, MLLMs, and VLLMs. I am actively engaged in several exciting ongoing projects and hope to connect with researchers in related fields.
+- 🌱 Interests: I am currently focused on the knowledge, reasoning, and interventions of LLMs, MLLMs, and VLLMs. More recently, I've developed a growing interest in Video Generation and World Models. I am actively engaged in several exciting ongoing projects and hope to connect with researchers in related fields.
 - ⚡ Fun fact: I have learnt Cantonese for more than 200 days on Duolingo!
 - 😄 For detailed information, please refer to my <a href="https://github.com/asdfo123/asdfo123/blob/main/CV_Xinye_Li.pdf">CV</a> and my <a href="https://asdfo123.github.io">personal website</a>. </p>  
 
